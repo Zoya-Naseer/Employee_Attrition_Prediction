@@ -1,14 +1,9 @@
 # Employee_Attrition_Prediction
 
+### By Zoya Naseer
 [
 ![Attrition-01](https://www.teamly.com/blog/wp-content/uploads/2022/06/What-Is-Employee-Attrition.png)
 ](url)
-
-
-
-# *Employee Attrition Analysis & Prediction*  
-### By Zoya Naseer
-
 
 
 ## *Overview*
