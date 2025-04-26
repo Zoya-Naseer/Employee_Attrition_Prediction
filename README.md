@@ -1,4 +1,6 @@
 # Employee_Attrition_Prediction
 
-([https://www.teamly.com/blog/wp-content/uploads/2022/06/What-Is-Employee-Attrition.png])
+[
+![Attrition-01](https://www.teamly.com/blog/wp-content/uploads/2022/06/What-Is-Employee-Attrition.png)
+](url)
 
